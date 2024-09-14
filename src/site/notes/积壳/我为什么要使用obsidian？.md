@@ -1,5 +1,5 @@
 ---
-{"tags":null,"领域":["软件技术"],"dg-publish":true,"permalink":"/积壳/我为什么要使用obsidian？/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/积壳/我为什么要使用obsidian？/"}
 ---
 
 

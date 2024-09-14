@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/积壳/ps高光选区快捷键 ps高光、中间调、暗部的选择方法/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/积壳/ps高光选区快捷键 ps高光、中间调、暗部的选择方法/"}
 ---
 
 方法 1. 使用高光选区快捷键“CtrlAlt2”即可选中图片中高光区域。

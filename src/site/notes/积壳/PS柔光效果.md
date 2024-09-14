@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/积壳/PS柔光效果/","dgPassFrontmatter":true}
+{"dg-publish":true,"permalink":"/积壳/PS柔光效果/"}
 ---
 
 今日无事 说说柔光效果  
